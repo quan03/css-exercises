@@ -6,3 +6,13 @@
 .twenty-four-pixels {
     font-size: 24px;
 }
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: green;
+    font-weight: bold;
+}
